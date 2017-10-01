@@ -1,0 +1,21 @@
+{
+  "name": "resin-sense-hat-maze",
+  "version": "0.0.1",
+  "description": "Simple maze game using the led matrix on the sense HAT as well as the IMU sensor.",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CableGuy67/sense-hat-maze"
+  },
+  "author": "Mark Roth <pretendemail@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CableGuy67/sense-hat-maze/issues"
+  },
+  "homepage": "https://cableguy67.github.io/sense-hat-maze/",
+  "dependencies": {
+    "node-sense-hat": "0.0.2"
+  }
+}
